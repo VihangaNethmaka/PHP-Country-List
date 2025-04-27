@@ -65,7 +65,7 @@ If you find any errors, omissions, or have suggestions for improvement, feel fre
 
 ## License
 
-[MIT License](https://www.google.com/search?q=LICENSE)
+[MIT License](https://github.com/VihangaNethmaka/PHP-Country-List/blob/main/LICENSE)
 
 ## Author
 
