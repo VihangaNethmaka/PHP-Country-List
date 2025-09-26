@@ -2,7 +2,7 @@
 
 A comprehensive PHP array containing a list of countries with their names, ISO 3166-1 alpha-2 codes, international dial codes, and flag emojis.
 
-## Features.
+## Features
 
 * Includes a wide range of countries.
 * Data is structured as an associative array for easy access.
